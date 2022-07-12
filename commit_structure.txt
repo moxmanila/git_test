@@ -5,6 +5,9 @@
 2. 
     Commit the changed with the command
     "git commit"
+    NOTE: with the option -m "message" you can create an easy
+    Oneliner of commit message if your commit doesn't need
+    too much information anyways.
 
 3. 
 
