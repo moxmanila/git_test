@@ -14,14 +14,14 @@
 4. (if working in VSCode)
 
     An Editor will pop up to ask for the commit message.
-    Try to be as precise and short as possible. For further
-    information, see 
+    Try to be as precise and short as possible. Close the
+    Editor and the push will commit.
+    
+    
+    For further information visit
     https://www.theodinproject.com/lessons/foundations-commit-messages
     and 
     https://cbea.ms/git-commit/
 
-4b. 
-
-    Close the EDITMSG and the final push will commit.
 
     
