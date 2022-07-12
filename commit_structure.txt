@@ -1,0 +1,27 @@
+1.    
+    Add the changed files to the staging preparation with
+    the command "git add "changedfile.txt"
+
+2. 
+    Commit the changed with the command
+    "git commit"
+
+3. 
+
+    "Push" the changed file to the githup repo with the command
+    "git push origin main"
+
+4. (if working in VSCode)
+
+    An Editor will pop up to ask for the commit message.
+    Try to be as precise and short as possible. For further
+    information, see 
+    https://www.theodinproject.com/lessons/foundations-commit-messages
+    and 
+    https://cbea.ms/git-commit/
+
+4b. 
+
+    Close the EDITMSG and the final push will commit.
+
+    
